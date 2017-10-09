@@ -1,2 +1,2 @@
 # sdkv.github.io
-Sudakov's GitHub page
+SDKV's GitHub page
