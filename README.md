@@ -1,3 +1,4 @@
-# sdkv.github.io -> sdkv.bizml.ru
+# sdkv.github.io &rarr; sdkv.bizml.ru
 SDKV's GitHub page
+
 _Under construction_
